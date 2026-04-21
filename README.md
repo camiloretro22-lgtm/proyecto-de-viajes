@@ -30,7 +30,8 @@ Jupyter Notebook → Desarrollo del análisis
 
 SQL (opcional según tu proyecto) → Consulta de datos
 
-🔍 Proceso de Análisis
+<h1> 🔍 Proceso de Análisis </h1>
+
 1. Carga y limpieza de datos
 
 Eliminación de valores nulos y duplicados

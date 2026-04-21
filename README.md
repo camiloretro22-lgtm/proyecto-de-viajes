@@ -1,5 +1,6 @@
 <h1> 📊 Análisis de Datos de Viajes </h1>
 
+
 <h1> 📌 Descripción del Proyecto </h1>
 
 Este proyecto tiene como objetivo analizar datos relacionados con viajes para identificar patrones de comportamiento, tendencias de consumo y oportunidades de optimización en la toma de decisiones estratégicas.
@@ -56,7 +57,7 @@ Interpretación de resultados
 
 Enfoque en impacto real para el negocio
 
-<h1> 📈 Hallazgos Clave (Ejemplo de cómo debes presentarlos) </h1>
+<h1> 📈 Hallazgos Clave </h1>
 
 📊 El 20% de los destinos genera el 65% de los ingresos, indicando alta concentración de demanda
 
